@@ -15,6 +15,12 @@ Eclipse 3.5 (Galileo)，Java
 |1.3|2017/06/08|文字コードをUTF-8に変更。 |
 |1.3|2017/06/21 |GitHubにて公開開始。|
 
+※Git管理の開始が遅かったため、更新履歴とコミット履歴は一致しません。
+
 ## ファイル構成
 - SignalNormal.java：通常の信号交差点の信号サイクル
 - SignalButton.java：押しボタン式信号交差点の信号サイクル
+
+## 詳細
+より詳細な情報が欲しい方は以下のリンクを参照。  
+https://proglight.jimdo.com/programs/java/
