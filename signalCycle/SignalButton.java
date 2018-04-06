@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 /**
  * 押しボタン式信号交差点の信号サイクルアプリケーション
- * @author proglight
+ * @author cook1293
  */
 
 public class SignalButton extends JFrame{

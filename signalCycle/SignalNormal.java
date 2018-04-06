@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 /**
  * 通常の信号交差点の信号サイクルアプリケーション
- * @author proglight
+ * @author cook1293
  */
 
 public class SignalNormal extends JFrame{
